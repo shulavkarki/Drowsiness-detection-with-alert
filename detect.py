@@ -3,7 +3,6 @@ from scipy.spatial import distance
 from imutils import face_utils
 import imutils
 import playsound
-from argparse import ArgumentParser
 from threading import Thread
 import dlib
 import queue
