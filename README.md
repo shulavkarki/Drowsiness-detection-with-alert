@@ -34,9 +34,13 @@ It checks for 20 consecutive frames and if the EAR gets below 0.25, we set the a
 <p align="center">
   <img src="images/sample3.png" width="300" title="EAR">
 </p>
-## Samples
 
+## Samples
 <p align="center">
   <img src="images/samples.gif" width="1000" title="Sample 1">
- 
 </p>
+
+## Reference
+1. [hackaday](https://hackaday.io/project/27552-blinktotext/log/68360-eye-blink-detection-algorithms#:~:text=%E2%80%9CThe%20Eye%20Aspect%20Ratio%20is,The%20person%27s%20eyeblinks%20are%20obvious.)
+2. [pyimagesearch](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
+
