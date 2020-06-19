@@ -37,6 +37,6 @@ It checks for 20 consecutive frames and if the EAR gets below 0.25, we set the a
 ## Samples
 
 <p align="center">
-  <img src="images/samples.gif" width="300" title="Sample 1">
+  <img src="images/samples.gif" width="1000" title="Sample 1">
  
 </p>
