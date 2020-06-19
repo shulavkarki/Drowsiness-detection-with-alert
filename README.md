@@ -20,7 +20,7 @@
 
 ## Algorithm
 <p align="center">
-  <img src="smaple1.png" width="300" title="Facial Landmarks">
+  <img src="sample1.png" width="300" title="Facial Landmarks">
 </p>
 Here, pre-trained facial landmarks model is used in which we extract the 6 (x, y)- coordinates of detected eye and then find eye aspect ratio(EAR).
 
