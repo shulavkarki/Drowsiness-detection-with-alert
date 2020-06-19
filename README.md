@@ -29,6 +29,7 @@ Here, pre-trained facial landmarks model is used in which we extract the 6 (x, y
   <img src="smaple2.png" width="300" title="EAR">
 </p>
 
+It checks for 20 consecutive frames and if the EAR gets below 0.25, we set the alarm ON.
 
 ## Samples
 <p align="center">
