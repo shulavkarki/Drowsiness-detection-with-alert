@@ -17,4 +17,23 @@
   - imutils
   - scipy
   - playsound
-  
+
+## Algorithm
+<p align="center">
+  <img src="smaple1.png" width="300" title="Facial Landmarks">
+</p>
+Here, pre-trained facial landmarks model is used in which we extract the 6 (x, y)- coordinates of detected eye and then find eye aspect ratio(EAR).
+
+### Eye Aspect Ratio (EAR)
+<p align="center">
+  <img src="smaple2.png" width="300" title="EAR">
+</p>
+
+
+## Samples
+<p align="center">
+  <img src="smaple1.png" width="300" title="Sample 1">
+  <img src="sample2.png" width="300 title="Sample 2">
+  <img src="sample3.png" width="300" title="Sample 3">
+  <img src="sample4.png" width="300" title="Sample 4">
+</p>
